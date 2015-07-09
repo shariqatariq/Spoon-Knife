@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6F150E1E-36F0-440A-947D-EF1747E95305}</ProjectGuid>
+    <ProjectGuid>{FAB0FB9E-C48E-47EA-BBBE-B8CEE7DECB3D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <StartupObject>HelloWorld.ConsoleApp.Module1</StartupObject>
     <RootNamespace>HelloWorld.ConsoleApp</RootNamespace>
